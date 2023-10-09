@@ -24,4 +24,4 @@ Your first task is to visualise an earthquake dataset. Complete the following st
     
     - Your visualisation should look something like the preceding map.
   
-![Map](Leaflet-Part-1/Images/Map.PNG)
+![Map](Leaflet-Part-1/Images/Map.png)
