@@ -23,7 +23,7 @@ d3.json(geoData).then(function(data) {
             opacity: 1,
             fillOpacity: 1,
             fillColor: mapColor(feature.geometry.coordinates[2]),
-            color: "black",
+            color: "#000000",
             radius: mapRadius(feature.properties.mag),
             stroke: true,
             weight: 0.5
